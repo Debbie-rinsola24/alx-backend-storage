@@ -1,4 +1,6 @@
-ggregation
+#!/usr/bin/env python3
+"""
+Aggregation
 """
 
 from pymongo import MongoClient
